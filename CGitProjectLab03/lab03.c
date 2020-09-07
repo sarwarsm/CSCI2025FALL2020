@@ -2,7 +2,7 @@
  * lab03.c
  *
  *  Created on: Sep 4, 2020
- *      Author: sohel
+ *      Author: sohel m sarwar
  */
 
 #include <stdio.h>
